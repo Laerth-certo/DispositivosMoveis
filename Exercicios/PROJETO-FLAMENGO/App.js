@@ -11,10 +11,11 @@ import {
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>CLUBE DE REGATAS FLAMENGO</Text>
+      <Text>DAVI E BARBARA
+        
+      </Text>
       <Text>
-        O Flamengo, fundado em 1895 no Rio de Janeiro, é um dos clubes mais
-        populares e vitoriosos do Brasil.
+        
       </Text>
       <StatusBar style="auto" />
     </View>
