@@ -63,7 +63,7 @@ export default function App() {
     <PaperProvider>
       <View style={styles.container}>
         <StatusBar style="auto" />
-        <Text variant='displaySmall'>Lista de Times</Text>
+        <Text variant='displaySmall'>Lista de Times do LAERTH PIRES LOBATO</Text>
         <FlatList
           data={times}
           keyExtractor={(item) => item.nome}
